@@ -1,0 +1,20 @@
+*,
+*::before,
+*::after {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    /* display: flex; */
+}
+
+
+.header {
+    background-color: aquamarine;
+    color: bisque;
+}
+
+.button {
+    background-color: aqua;
+    border-color: aqua;
+    color: black;
+}
